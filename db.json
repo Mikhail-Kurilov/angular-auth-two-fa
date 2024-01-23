@@ -1,0 +1,27 @@
+{
+  "user": [
+    {
+      "id": "12345",
+      "name": "Asdf",
+      "password": "WLR.Za4GLRj@KPW",
+      "email": "zz@zz.com",
+      "role": "",
+      "isActive": true
+    },
+    {
+      "id": "123456",
+      "name": "qwerty",
+      "password": "WLR.Za4GLRj@KPW1",
+      "email": "11@vv.com",
+      "role": "",
+      "isActive": true
+    },
+    {
+      "id": "QQQQQ",
+      "name": "QQQQ",
+      "password": "WLR.Za4GLRj@KPW",
+      "role": "",
+      "isActive": false
+    }
+  ]
+}

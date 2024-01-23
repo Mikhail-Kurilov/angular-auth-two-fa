@@ -1,0 +1,20 @@
+.example-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.button-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.qrcode-container {
+  margin-top: 5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.marginTop {
+  margin-top: 2rem;
+}
